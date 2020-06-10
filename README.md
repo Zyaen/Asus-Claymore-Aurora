@@ -1,2 +1,3 @@
 # Asus-Claymore-Aurora
-keyboard layout for https://github.com/antonpup/Aurora
+
+keyboard layout for [antonpup/Aurora](https://github.com/antonpup/Aurora)
